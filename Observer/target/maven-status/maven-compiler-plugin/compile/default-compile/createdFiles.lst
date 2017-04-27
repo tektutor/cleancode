@@ -1,0 +1,5 @@
+org/tektutor/IObserver.class
+org/tektutor/Observable.class
+org/tektutor/IObservable.class
+org/tektutor/Observer.class
+org/tektutor/Main.class
